@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2021-10-26T00:03:56.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Xe0gK6X9-bSRSjTiWuHR" version="15.5.2" type="google">
+  <diagram id="Z5_ygTwv_znsMWAqynHn" name="Page-1">
+    <mxGraphModel dx="5631" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-14" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#E0E0E0;strokeColor=none;connectable=0;fillOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-3120" y="475" width="720" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-13" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#E0E0E0;strokeColor=none;connectable=0;fillOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="810" y="480" width="740" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-12" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#E0E0E0;strokeColor=none;connectable=0;fillOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-2320" y="480" width="880" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-11" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#E0E0E0;strokeColor=none;connectable=0;fillOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="480" width="1040" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-10" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#E0E0E0;strokeColor=none;connectable=0;fillOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="480" width="720" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-4" target="qFvmvhhIy5K1qm7dYoa7-101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-34.44460385805269" y="693.9683450617445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-4" target="qFvmvhhIy5K1qm7dYoa7-102" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90.23226153137603" y="685.4488439641418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-4" target="5Ee3djVCRaV9pwF5Q8-f-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-4" target="5Ee3djVCRaV9pwF5Q8-f-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-4" target="5Ee3djVCRaV9pwF5Q8-f-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-4" target="qFvmvhhIy5K1qm7dYoa7-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614.4446038580836" y="346.0316549382379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-77" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-220" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-117" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-4" target="5Ee3djVCRaV9pwF5Q8-f-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-118" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-4" target="5Ee3djVCRaV9pwF5Q8-f-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Heavy&lt;br&gt;Metal" link="https://open.spotify.com/playlist/2qVLMeV7LfrErQqZ4lEbsU" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-4">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="180" y="520" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-9" target="5Ee3djVCRaV9pwF5Q8-f-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-107" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-9" target="5Ee3djVCRaV9pwF5Q8-f-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-135" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Speed Metal" link="https://open.spotify.com/playlist/6dKwQQOk0WRruOiq6mSspI" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-9">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="180" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-10" target="5Ee3djVCRaV9pwF5Q8-f-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-10" target="5Ee3djVCRaV9pwF5Q8-f-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-10" target="5Ee3djVCRaV9pwF5Q8-f-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Folk Metal" link="https://open.spotify.com/playlist/5pgOxXVtTEMV1Lli5wJaxi" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-10">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="320" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-11" target="qFvmvhhIy5K1qm7dYoa7-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Glam Metal" link="https://open.spotify.com/playlist/5IM5wnEUxIsgv5SfotWW5q" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-11">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="460" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-101" target="qFvmvhhIy5K1qm7dYoa7-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="720" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-180" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-144" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-13" target="5Ee3djVCRaV9pwF5Q8-f-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="940" />
+              <mxPoint x="-390" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Power Metal" link="https://open.spotify.com/playlist/6VgjAfRajM8aW6iYY4qoEg" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-13">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="40" y="800" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-14" value="Medieval Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="180" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-15" value="Neo-Classical Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Celtic Metal" link="https://open.spotify.com/playlist/02dfusZfeCl35az8FXaLAy" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-16">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="320" y="800" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-28" value="Oriental Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="460" y="795" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31" target="5Ee3djVCRaV9pwF5Q8-f-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31" target="5Ee3djVCRaV9pwF5Q8-f-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31" target="5Ee3djVCRaV9pwF5Q8-f-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31" target="5Ee3djVCRaV9pwF5Q8-f-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31" target="5Ee3djVCRaV9pwF5Q8-f-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31" target="5Ee3djVCRaV9pwF5Q8-f-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31" target="5Ee3djVCRaV9pwF5Q8-f-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-740" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-810" y="660" />
+              <mxPoint x="-740" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oqtN7KGyN4ja_moRvRwp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31" target="5Ee3djVCRaV9pwF5Q8-f-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-810" y="620" />
+              <mxPoint x="1045" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Death &lt;br&gt;Metal" link="https://open.spotify.com/playlist/1Fqywg2jS65vIieUQ3GjnN" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-31">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-870" y="520" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Deathcore" link="https://open.spotify.com/playlist/4uEqUaC061bGBL9bPSsB9k" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-32">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-1290" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-33" value="Deathgrind" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-1150" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-34" target="5Ee3djVCRaV9pwF5Q8-f-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Tech Death" link="https://open.spotify.com/playlist/5Nil1FIiyNpv8RX8y4nhop" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-34">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-1010" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Brutal Death" link="https://open.spotify.com/playlist/1U7Fh1JUGUBnhyn4IOTooa" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-35">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-870" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-130" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-41" target="qFvmvhhIy5K1qm7dYoa7-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-41" target="5Ee3djVCRaV9pwF5Q8-f-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Doom&lt;br&gt;Metal" link="https://open.spotify.com/playlist/5PSmWzRLYCv36p8IMDvHGJ" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-41">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="1060" y="520" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-42" value="Sludge Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="850" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.75;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-43" target="5Ee3djVCRaV9pwF5Q8-f-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-328" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1045" y="1060" />
+              <mxPoint x="-360" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Goth Metal" link="https://open.spotify.com/playlist/1r7mG2zeNIwenRfLaSuF1i" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-43">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="990" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-44" value="Stoner Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-45" value="Drone Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1265" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-46" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-41" target="5Ee3djVCRaV9pwF5Q8-f-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1065" y="760" as="sourcePoint" />
+            <mxPoint x="1115" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-47" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-41" target="5Ee3djVCRaV9pwF5Q8-f-43" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1115" y="640" as="sourcePoint" />
+            <mxPoint x="957.4264068711927" y="701.7157287525379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-48" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-41" target="5Ee3djVCRaV9pwF5Q8-f-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1135" y="660" as="sourcePoint" />
+            <mxPoint x="967.4264068711927" y="711.7157287525379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-49" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-41" target="5Ee3djVCRaV9pwF5Q8-f-45" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1115" y="640" as="sourcePoint" />
+            <mxPoint x="977.4264068711927" y="721.7157287525379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-50" value="Death n&#39; Roll" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-51" target="5Ee3djVCRaV9pwF5Q8-f-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-51" target="5Ee3djVCRaV9pwF5Q8-f-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Melodic Death" link="https://open.spotify.com/playlist/3clUb08ypDAUaUcWgAyUdV" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-51">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-590" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Sympphonic Metal" link="https://open.spotify.com/playlist/1Z2rcAnzXfLbBiyU2eeogi" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-52">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-450" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-53" value="Death Doom" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="1320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Viking Metal" linkTarget="_blank" link="https://open.spotify.com/playlist/4zJvYfjldyksD6T4727OmI" id="5Ee3djVCRaV9pwF5Q8-f-65">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-660" y="800" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-66" value="Trance Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Djent" link="https://open.spotify.com/playlist/06YB3YYsrFi3r67ucPBSJT" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-67">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-1010" y="800" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-79" target="5Ee3djVCRaV9pwF5Q8-f-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2590" y="555" />
+              <mxPoint x="-2590" y="450" />
+              <mxPoint x="-810" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oqtN7KGyN4ja_moRvRwp-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-79" target="oqtN7KGyN4ja_moRvRwp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Thrash&lt;br&gt;Metal" link="https://open.spotify.com/playlist/6zNNlx8Qxavr4luW8zgypD" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-79">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-2820" y="520" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-156" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-80" target="qFvmvhhIy5K1qm7dYoa7-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-80" value="Crossover Thrash" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-2960" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Industrial Metal" link="https://open.spotify.com/playlist/4pzDpbZxL5WWaISyOjEPfd" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-81">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-2820" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-82" value="Deathrash" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-2680" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Groove Metal" link="https://open.spotify.com/playlist/7k3YDpab1udvNXRg9F16C7" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-83">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-2540" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-84" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-79" target="5Ee3djVCRaV9pwF5Q8-f-80" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2730" y="755" as="sourcePoint" />
+            <mxPoint x="-2680" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-85" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-79" target="5Ee3djVCRaV9pwF5Q8-f-81" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2680" y="635" as="sourcePoint" />
+            <mxPoint x="-2837.5735931288073" y="696.7157287525379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-86" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-79" target="5Ee3djVCRaV9pwF5Q8-f-82" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2660" y="655" as="sourcePoint" />
+            <mxPoint x="-2827.5735931288073" y="706.7157287525379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-87" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-79" target="5Ee3djVCRaV9pwF5Q8-f-83" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2680" y="635" as="sourcePoint" />
+            <mxPoint x="-2817.5735931288073" y="716.7157287525379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-112" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-88" target="5Ee3djVCRaV9pwF5Q8-f-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-88" target="5Ee3djVCRaV9pwF5Q8-f-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-88" target="5Ee3djVCRaV9pwF5Q8-f-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-88" target="5Ee3djVCRaV9pwF5Q8-f-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-88" target="5Ee3djVCRaV9pwF5Q8-f-111" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-88" target="qFvmvhhIy5K1qm7dYoa7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-88" target="qFvmvhhIy5K1qm7dYoa7-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1880" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Black&lt;br&gt;Metal" link="https://open.spotify.com/playlist/6LNMBTZZS0CDZ1HpxhZWpC" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-88">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-1940" y="520" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-89" value="Depressive &lt;br&gt;Black Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-2290" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Symphonic&lt;br&gt;Black Metal" link="https://open.spotify.com/artist/6ahZhWLiImspvawPYn6FVd" linkTarget="_blank" id="5Ee3djVCRaV9pwF5Q8-f-90">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="1" vertex="1">
+            <mxGeometry x="-2150" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-91" value="Unblack" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-1870" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-92" value="Blackened Crust" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-1730" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ee3djVCRaV9pwF5Q8-f-111" value="Black Ambient" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-1590" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Psychedelic Rock" link="https://open.spotify.com/playlist/6lNgyohRfiX1LxsdtSNhUW" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-2">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-80" y="160" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Blues Rock" link="https://open.spotify.com/playlist/09KQh6W82AizJdNMaz9N3h" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-3">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="60" y="160" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-107" target="5Ee3djVCRaV9pwF5Q8-f-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="121.73398455170081" y="357.2835019545437" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-107" target="qFvmvhhIy5K1qm7dYoa7-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="360" as="sourcePoint" />
+            <mxPoint x="660" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="410" />
+              <mxPoint x="680" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-110" target="5Ee3djVCRaV9pwF5Q8-f-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290.18288633045813" y="359.4609471030599" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-110" target="qFvmvhhIy5K1qm7dYoa7-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270.43729354052357" y="354.80770276680323" as="sourcePoint" />
+            <mxPoint x="-47.89687512891123" y="686.2072369778007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-26" target="qFvmvhhIy5K1qm7dYoa7-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1950" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Atmospheric&lt;br&gt;Black Metal" link="https://open.spotify.com/playlist/3n5ruwu6aXv6iLiAwpemVg" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-26">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-2010" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Blackgaze" link="https://open.spotify.com/playlist/6LYAEmNhjWAETjnwx40WN7" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-28">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-2010" y="800" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-38" value="Blackened Death" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-112" target="qFvmvhhIy5K1qm7dYoa7-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-35.48581118144557" y="358.81201602591136" as="sourcePoint" />
+            <mxPoint x="49.180327868743916" y="680.655737704521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Nu Metal" link="https://open.spotify.com/playlist/7FOwQyBWkfWkqSUggtKWti" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-51">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-520" y="1510" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-53" target="qFvmvhhIy5K1qm7dYoa7-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Rap Metal" link="https://open.spotify.com/playlist/5dA5w1lV2GneX2rqzcdHKC" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-53">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-320" y="1440" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-55" target="qFvmvhhIy5K1qm7dYoa7-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-55" target="5Ee3djVCRaV9pwF5Q8-f-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Grunge" link="https://open.spotify.com/playlist/5hFF17wpfgOaqqSHz2T1q6" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-55">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-720" y="1600" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-57" target="oqtN7KGyN4ja_moRvRwp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Hip Hop" link="https://open.spotify.com/playlist/79oqVSkHSIAizksu97Hy85" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-57">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="40" y="1520" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-59" target="5Ee3djVCRaV9pwF5Q8-f-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-61" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-59" target="qFvmvhhIy5K1qm7dYoa7-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2360" y="360" />
+              <mxPoint x="-2360" y="940" />
+              <mxPoint x="-2310" y="1070" />
+              <mxPoint x="-2360" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-59" target="5Ee3djVCRaV9pwF5Q8-f-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1880" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-59" value="Hardcore Punk" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-2820" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-65" target="5Ee3djVCRaV9pwF5Q8-f-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-65" target="qFvmvhhIy5K1qm7dYoa7-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-65" value="Gothic Rock" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="780" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-68" value="Visual Kei" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="720" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-113" target="5Ee3djVCRaV9pwF5Q8-f-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="646.3697549110193" y="358.9541977133159" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-75" target="qFvmvhhIy5K1qm7dYoa7-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-75" target="5Ee3djVCRaV9pwF5Q8-f-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Progressive Metal" link="https://open.spotify.com/playlist/0EtT4WwbxzCT9K6zbCHy3f" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-75">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-590" y="1080" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-78" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;" edge="1" parent="1" target="qFvmvhhIy5K1qm7dYoa7-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="1120" as="sourcePoint" />
+            <mxPoint x="-310" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-80" target="qFvmvhhIy5K1qm7dYoa7-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Progressive Rock" link="https://open.spotify.com/playlist/7GBkZobRzDsjPOEc7ZkjWA" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-80">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-590" y="960" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-82" value="Avant-Garde Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="1200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Alternative Metal" link="https://open.spotify.com/playlist/4vIgGAEfm1MG0u1He4x6qn" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-101">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-100" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-102" value="Post Metal" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="qFvmvhhIy5K1qm7dYoa7-114" target="qFvmvhhIy5K1qm7dYoa7-107" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="qFvmvhhIy5K1qm7dYoa7-114" target="qFvmvhhIy5K1qm7dYoa7-110" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="qFvmvhhIy5K1qm7dYoa7-107" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="16.910819414852995" y="231.53545736414617" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="qFvmvhhIy5K1qm7dYoa7-107" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Hard Rock" link="https://open.spotify.com/playlist/4WmLOsptjhnJSCEzobgRAo" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-107">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="100" y="280" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="qFvmvhhIy5K1qm7dYoa7-110" parent="1" target="qFvmvhhIy5K1qm7dYoa7-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="400" />
+              <mxPoint x="760" y="400" />
+              <mxPoint x="760" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-110" target="qFvmvhhIy5K1qm7dYoa7-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-110" target="qFvmvhhIy5K1qm7dYoa7-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2140" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Punk Rock" link="https://open.spotify.com/playlist/009ryIJFYCC3MX7h2Kf6tw" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-110">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="260" y="280" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oqtN7KGyN4ja_moRvRwp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-111" target="oqtN7KGyN4ja_moRvRwp-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="320" />
+              <mxPoint x="610" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oqtN7KGyN4ja_moRvRwp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-111" target="qFvmvhhIy5K1qm7dYoa7-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="430" />
+              <mxPoint x="-40" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oqtN7KGyN4ja_moRvRwp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-111" target="oqtN7KGyN4ja_moRvRwp-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="430" />
+              <mxPoint x="-3040" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Alternative Rock" link="https://open.spotify.com/playlist/3qAzdyZPRzhHPpVmJoTNTZ" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-111">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="460" y="280" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-112" value="Post Rock" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Shock Rock" link="https://open.spotify.com/playlist/3Mdeq8RRpIkoxPNH66OTh7" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-113">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="620" y="280" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-114" value="Garage Rock" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-122" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="qFvmvhhIy5K1qm7dYoa7-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="960" as="sourcePoint" />
+            <mxPoint x="-680" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-740" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-123" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="qFvmvhhIy5K1qm7dYoa7-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="1000" as="sourcePoint" />
+            <mxPoint x="-810" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-125" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="qFvmvhhIy5K1qm7dYoa7-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="1080" as="sourcePoint" />
+            <mxPoint x="-440" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-740" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-126" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="5Ee3djVCRaV9pwF5Q8-f-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="1200" as="sourcePoint" />
+            <mxPoint x="-440" y="1360.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-740" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-129" value="Funeral Doom" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-134" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-31" target="qFvmvhhIy5K1qm7dYoa7-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-610" y="480" as="sourcePoint" />
+            <mxPoint x="1050" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-780" y="450" />
+              <mxPoint x="1470" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-136" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5Ee3djVCRaV9pwF5Q8-f-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2680" y="535" as="sourcePoint" />
+            <mxPoint x="-240" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2620" y="520" />
+              <mxPoint x="-2620" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-139" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-138" target="5Ee3djVCRaV9pwF5Q8-f-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-138" target="qFvmvhhIy5K1qm7dYoa7-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-138" target="5Ee3djVCRaV9pwF5Q8-f-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1325" y="390" />
+              <mxPoint x="-1530" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-138" value="Dark Ambient" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-149" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-150" target="qFvmvhhIy5K1qm7dYoa7-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-150" target="5Ee3djVCRaV9pwF5Q8-f-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1670" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-150" value="Crust Punk" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-2800" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-152" target="qFvmvhhIy5K1qm7dYoa7-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-152" target="5Ee3djVCRaV9pwF5Q8-f-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1230" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Grindcore" link="https://open.spotify.com/playlist/3HzguYTYWlDS0W0Ym7ELUn" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-152">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-2800" y="1040" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-153" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-154" target="qFvmvhhIy5K1qm7dYoa7-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-164" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="qFvmvhhIy5K1qm7dYoa7-154" target="5Ee3djVCRaV9pwF5Q8-f-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1159.9979623064687" y="1159.670340866448" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2920" y="1140" />
+              <mxPoint x="-1230" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Metalcore" link="https://open.spotify.com/playlist/5p0PFXtiIjsx90lzwWiFjZ" linkTarget="_blank" id="qFvmvhhIy5K1qm7dYoa7-154">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-2960" y="1040" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="qFvmvhhIy5K1qm7dYoa7-155" value="Mathcore" style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="1160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oqtN7KGyN4ja_moRvRwp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="oqtN7KGyN4ja_moRvRwp-1" target="qFvmvhhIy5K1qm7dYoa7-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Rap Rock" link="https://open.spotify.com/playlist/2EveIof18AmxaPxkVc46tO" linkTarget="_blank" id="oqtN7KGyN4ja_moRvRwp-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-120" y="1440" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oqtN7KGyN4ja_moRvRwp-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="1120" as="sourcePoint" />
+            <mxPoint x="-220" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oqtN7KGyN4ja_moRvRwp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="oqtN7KGyN4ja_moRvRwp-5" target="qFvmvhhIy5K1qm7dYoa7-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1620" y="1550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3040" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Funk Metal" link="https://open.spotify.com/playlist/33nJlaTdXitorzrMFJBIIQ" linkTarget="_blank" id="oqtN7KGyN4ja_moRvRwp-5">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-3100" y="680" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oqtN7KGyN4ja_moRvRwp-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="oqtN7KGyN4ja_moRvRwp-9" target="oqtN7KGyN4ja_moRvRwp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Funk Rock" link="https://open.spotify.com/playlist/33nJlaTdXitorzrMFJBIIQ" linkTarget="_blank" id="oqtN7KGyN4ja_moRvRwp-9">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="1">
+            <mxGeometry x="-3280" y="480" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
